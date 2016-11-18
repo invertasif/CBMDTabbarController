@@ -5,10 +5,22 @@
 
 ## Requirements
 
-- iOS 8
-- Swift 3
-- Xcode 8
+- iOS 8 ^
+- Swift 3 ^
+- Xcode 8 ^
 
 ## Installation
 
 Drop in the folder to your Xcode project (make sure to enable "Copy items if needed" and "Create groups").
+
+## GIF
+
+![](http://ww1.sinaimg.cn/large/65e4f1e6gw1f9wrick8l0g20a701p76s.gif)
+
+## Usage
+
+### StoryBoard 
+
+![](http://ww3.sinaimg.cn/large/65e4f1e6gw1f9wsdq7qrsj218u0z20ve.jpg)
+
+![](http://ww2.sinaimg.cn/large/65e4f1e6gw1f9wsbesa75j20ox0ftadr.jpg)
