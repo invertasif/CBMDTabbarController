@@ -5,7 +5,7 @@
 
 ## Requirements
 
-- iOS 8 ^
+- iOS 10 ^
 - Swift 3 ^
 - Xcode 8 ^
 
