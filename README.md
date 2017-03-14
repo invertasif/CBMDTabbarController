@@ -12,13 +12,3 @@
 ## GIF
 
 ![](http://ww1.sinaimg.cn/large/65e4f1e6gw1f9wrick8l0g20a701p76s.gif)
-
-## Installation
-
-Drop in the folder to your Xcode project (make sure to enable "Copy items if needed" and "Create groups").
-
-## Usage
-
-### StoryBoard 
-
-![](http://ww2.sinaimg.cn/large/65e4f1e6gw1f9wsbesa75j20ox0ftadr.jpg)
